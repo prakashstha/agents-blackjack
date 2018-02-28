@@ -1,6 +1,6 @@
-# Assignment: Agents: Blackjack
-
-The goal of this assignment is to introduce an intelligent agents.
+# Agents: Blackjack
+This was the first assignment given to us during our Artificial Intelligence course. The goal of this assignment is to introduce an intelligent agents, and at the same time,
+be familiarized with [Git](http://git-scm.com/) and [Maven](http://maven.apache.org/)
 
 `src/main/java/edu/uab/cis/agents/blackjack/DealerAgent.java/DealerAgent.java` implement the following rules.
    * If the total points represented by the cards are 17 or more, `act` should return `Action.STAND`. Otherwise, it should return `Action.HIT`.
